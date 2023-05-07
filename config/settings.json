@@ -1,0 +1,11 @@
+{
+    "mysql":{
+        "host":"127.0.0.1",
+        "user":"root",
+        "psw":"",
+        "port":"3307",
+        "dbname":"mysql"
+    },
+    "useOrm": true,
+    "lenguage": "en"
+}

@@ -1,0 +1,14 @@
+{
+  "es":{
+    "addNomenclator":"El nomenclador ha sido adicionado satisfactoriamente",
+    "updateNomenclator":"El nomenclador ha sido actualizado satisfactoriamente",
+    "deleteNomenclator":"El nomenclador ha sido eliminado satisfactoriamente",
+    "error":"Ha ocurrido un error"
+  },
+  "en":{
+    "addNomenclator":"The nomenclator has been successfully added",
+    "updateNomenclator":"The nomenclator has been successfully updated",
+    "deleteNomenclator":"The nomenclator has been successfully deleted",
+    "error":"An error has occurred"
+  }
+}
